@@ -1,0 +1,9 @@
+list of name
+1 david
+2 victory
+3 john
+4 favour
+5 gloria
+6 loveth
+
+
