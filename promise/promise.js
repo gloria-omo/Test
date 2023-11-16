@@ -69,7 +69,7 @@
            // write operator with promises
            const fs = require('fs').promises;
 
-           // import ther document path
+           // import the document path
            let myWriteDoc = "./wpromise.txt"
            
            // implement with a callback
